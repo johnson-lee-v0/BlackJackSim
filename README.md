@@ -15,3 +15,7 @@ Download all files and run `GUI.py`.
 - Card Counter (counts the number of remaining cards in the deck for each number)
 - Data collection, stored in `game_data.db`
 - Play style analysis using KMeans (refer to `Analysis.py`)
+
+## Acknowledgment
+- Front side of card - https://code.google.com/archive/p/vector-playing-cards/downloads
+- Back side of card - https://www.google.com/url?sa=i&url=https%3A%2F%2Fopengameart.org%2Fcontent%2Fcolorful-poker-card-back&psig=AOvVaw2sitwTD17RQQDIo85amREF&ust=1697947221711000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCUs7qghoIDFQAAAAAdAAAAABAE
